@@ -14,7 +14,7 @@ Give students time to play with the rods before using them in directed lessons. 
 
 Provide guided exploration by asking students to lay one rod of each color flat on their desks to make a staircase. Have them discuss in their small groups what they notice and then report back to the class. Consecutive rods, for example, differ by the length of one white rod. Students often prove this by placing a white rod at the end of each rod (except the orange) in the staircase [Fig.1].
 
-![Fig. 1](../../images/cuisenaire_rods/fig-01.webp)
+![Fig. 1](../../../images/cuisenaire_rods/fig-01.webp)
 
 Ask students to discuss among themselves how much each rod is worth if the white rod is assigned the value of one. Show them that the white rod measures 1 centimeter on each edge. Have students share their answers and explain their reasoning. One group may report that the red rod is worth two "because it is twice as long as the white rod"; another may notice that "it takes two white rods to make a red rod, and one and one is two."
 
@@ -28,7 +28,7 @@ This activity is appropriate for students in grades 2 through 8, working either 
 
 Choose 6 to 10 rods, each a different color or a combination of colors (1 yellow, 1 purple, 1 red, and 3 white). Have each student select the same set of rods from their supply. Then, using some or all of your rods, build a structure [Fig. 2], keeping it hidden from class.
 
-![Fig. 2](../../images/cuisenaire_rods/fig-02.webp)
+![Fig. 2](../../../images/cuisenaire_rods/fig-02.webp)
 
 Explain that they will try to reproduce your structure by following the directions you give. Ask students to set up barriers (books are helpful) that will keep their workspace private. Once students are ready, begin your directions, describing your structure in detail, using color, direction, shape, placement, etc. For example, you might say, "Place a yellow rod, flat on your desk, so that it is horizontal. Now put a purple rod to the right of it in the opposite direction so that the rods are perpendicular. Make them touch so that it looks like the letter L on its side." Allow students to ask questions at any time. Use correct mathematical language to enable students to learn vocabulary in context.
 
@@ -67,7 +67,7 @@ Younger students can record by coloring their solutions on a grid. Prepare recor
 
 Older students can create their own recording systems, and in a follow-up class discussion, share them. Some students may sketch each solution; others may use grid paper; others may make lists, using abbreviations of their own or the standard ones. Some may even use number sentences. [Fig. 3]
 
-![Fig. 3](../../images/cuisenaire_rods/fig-03.webp)
+![Fig. 3](../../../images/cuisenaire_rods/fig-03.webp)
 
 ### Observing the Students
 
@@ -112,9 +112,9 @@ For students in grades 3 through 6, this activity uses the rods to investigate m
 
 Give each pair of students one set of Cuisenaire® Rods. Model the activity with the orange rod. Build in a systematic way, beginning with the white rod and moving on to the next longest rod. Approaching problems systematically will not only help children keep track of where they are, but will help them detect patterns more easily. After all the trains have been built, show students that to record them, they can simply name the rod they're trying to match and list the ways they find. [Fig. 5] Or, set up a chart such as this. [Fig. 6]
 
-![Fig. 5](../../images/cuisenaire_rods/fig-05.webp)
+![Fig. 5](../../../images/cuisenaire_rods/fig-05.webp)
 
-![Fig. 6](../../images/cuisenaire_rods/fig-06.webp)
+![Fig. 6](../../../images/cuisenaire_rods/fig-06.webp)
 
 Have students continue to find all the ways to make trains of one color equal to each of the nine remaining rods and to record their solutions.
 
@@ -275,17 +275,17 @@ In the following investigation with Cuisenaire® Rods, appropriate for grades 3 
 
 Explain to students that perimeter is the distance around something, and demonstrate how to find the perimeter of a Cuisenaire rod. Do this by placing a rod of any color on centimeter grid paper, then either trace around it or make a sketch. Remove the rod and count aloud the number of units along the outline [Fig. 9].
 
-![Fig. 9](../../images/cuisenaire_rods/fig-09.webp)
+![Fig. 9](../../../images/cuisenaire_rods/fig-09.webp)
 
 Have students find the perimeter of several other rods, verifying their results with each other.
 
 Now make a shape [Fig. 10] with two red rods and one light green rod, and model finding its perimeter. (Place the rods in such a way that the outlined shape could be cut out and remain in one piece.)
 
-![Fig. 10](../../images/cuisenaire_rods/fig-10.webp)
+![Fig. 10](../../../images/cuisenaire_rods/fig-10.webp)
 
 Rearrange the same three rods into a different shape [Fig. 11]. Direct students to build the same shape, to trace or draw it, and to find its perimeter.
 
-![Fig. 11](../../images/cuisenaire_rods/fig-11.webp)
+![Fig. 11](../../../images/cuisenaire_rods/fig-11.webp)
 
 Ask students to make still another arrangement with these rods and to find its perimeter. (Remind them that the shape they make must be one which can be cut from paper with the paper staying in one piece.) Students are sometimes surprised that shapes, though different, can have the same perimeter.
 
@@ -320,7 +320,7 @@ Not all students will have discovered that the possible perimeters range from 14
 
 "We realized that if we slid the purple rod to the left, the perimeter didn't change." [Fig. 12]
 
-![Fig. 12](../../images/cuisenaire_rods/fig-12.webp)
+![Fig. 12](../../../images/cuisenaire_rods/fig-12.webp)
 
 Following the class discussion, have groups cut out and post their different shapes on the bulletin board or chalkboard. Choose one group to start, and direct other groups to add only shapes that have not already been posted. This gives students an opportunity to compare, match, and sort. At the same time, it provides them with more time to reflect on the results. The posted shapes can also lead to these further investigations.
 
@@ -334,7 +334,7 @@ This activity can be repeated several times throughout the school year, changing
 
 Ask students to pick one of the posted shapes and to try to fill it with a different set of rods. Can it be done? Can it be done with still another set? And another? This shape [Fig. 13] can be filled with a set of 12 white rods, or a set of 6 red rods, or with 2 light green and 3 red rods.
 
-![Fig. 13](../../images/cuisenaire_rods/fig-13.webp)
+![Fig. 13](../../../images/cuisenaire_rods/fig-13.webp)
 
 Such spatial reasoning gives students practice in the kind of everyday skills used to determine that a 6-inch bowl is just right for storing the leftover pretzels, that a stack of dishes will fit a particular shelf, and that the parking space is too small for the car.
 
